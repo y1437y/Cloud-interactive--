@@ -19,6 +19,6 @@
 
     <style name="MyActionBar" parent="@style/ThemeOverlay.AppCompat.ActionBar">
         <item name="colorControlNormal">@color/Black</item>
-        <item name="android:fontFamily">@font/thebomb</item>
+        <item name="android:fontFamily">@font/barlow</item>
     </style>
 </resources>
